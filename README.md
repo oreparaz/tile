@@ -107,7 +107,8 @@ for some months, but consider all this experimental and best effort at best.
 I built this functionality because I needed it and thought it could be interesting to others.
 
 Note that public keys need to be certified somehow. For the moment we
-just rely on transport security when retrieving them.
+just rely on transport security when retrieving them. If I signed them,
+would you verify them? Which key would you use?
 
 ## Applications
 
@@ -120,7 +121,7 @@ fair bidding or broadcast encryption.
 | label                        | description  | end of life |
 |------------------------------|--------------|-------------|
 | 2020-08-20_purple-verse      | Staging (DO NOT USE) | n/a |
-| 2020-08-20_mushroom-paradox  | "Production"         | 2020-12-31 |
+| 2020-08-20_mushroom-paradox  | "Production"         | 2020-08-31 |
 
 ## References
 
