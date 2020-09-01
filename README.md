@@ -76,6 +76,17 @@ Typical successful response:
 }
 ```
 
+If you ask for a key not yet revealed you'll get this response:
+
+```JSON
+{
+    "error": {
+        "code": "400",
+        "message": "key not yet revealed"
+    }
+}
+```
+
 </details>
 
 ## Implementation
