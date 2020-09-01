@@ -4,6 +4,8 @@ _tile_ is a simple API for time-locked encryption (aka timed-release encryption)
 _tile_ publishes X25519 public keys, and _also_ the corresponding private keys,
 but only _after_ a predefined date in the future.
 
+![Yale Model #2, c. 1890 Single Pin Dial Time Lock](http://www.my-time-machines.net/Yale_Single_Pin_Dial-100a-4.jpg)
+
 ## API
 
 _tile_ is very easy to use.
@@ -108,6 +110,12 @@ fair bidding or broadcast encryption.
 |------------------------------|--------------|-------------|
 | 2020-08-20_purple-verse      | Staging (DO NOT USE) | n/a |
 | 2020-08-20_mushroom-paradox  | "Production"         | 2020-12-31 |
+
+## References
+
+Picture above of a Yale Single Pin Dial Time Lock from around 1890 
+is taken from the
+[Magnificent Time Machines by Mark Frank](http://www.my-time-machines.net/timelock_index.htm).
 
 ## Contact
 
