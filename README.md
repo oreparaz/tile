@@ -118,10 +118,10 @@ fair bidding or broadcast encryption.
 
 ## Key labels
 
-| label                        | description  | end of life |
+| label                        | description  | end of life (predicted) |
 |------------------------------|--------------|-------------|
 | 2020-08-20_purple-verse      | Staging (DO NOT USE) | n/a |
-| 2020-08-20_mushroom-paradox  | "Production"         | 2020-08-31 |
+| 2020-08-20_mushroom-paradox  | "Production"         | 2020-12-31 |
 
 ## References
 
